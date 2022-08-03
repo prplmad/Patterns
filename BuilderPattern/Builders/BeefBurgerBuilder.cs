@@ -25,7 +25,6 @@ namespace BuilderPattern.Builders
         public void AddCutlet()
         {
             burger.BeefCutlet = true;
-            burger.ChickenCutlet = false;
         }
 
         public void AddJalapeno()
